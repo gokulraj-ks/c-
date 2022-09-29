@@ -1,2 +1,2 @@
-# c-
+# c++
 learning c++ from scratch
